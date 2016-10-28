@@ -13,7 +13,7 @@ namespace TestGITHUB
             for (int i = 0; i < 200; i++)
             {
                 Console.WriteLine("Jouons à Pokémon!!!");
-                Console.WriteLine("S/M sort le 18 nov");
+                Console.WriteLine("S/M sort le 18 novembre");
             }
             Console.ReadKey();
         }
