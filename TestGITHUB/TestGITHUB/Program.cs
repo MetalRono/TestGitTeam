@@ -10,7 +10,7 @@ namespace TestGITHUB
     {
         static void Main(string[] args)
         {
-            for(int i = 0; i < 200; i++)
+            for (int i = 0; i < 200; i++)
             {
                 Console.WriteLine("Jouons à Pokémon!!!");
             }
